@@ -22,7 +22,7 @@ https://github.com/Karlof99/qr-code-component/blob/master/QR-code-screenshot.png
 ### Links
 
 - Solution URL: https://github.com/Karlof99/qr-code-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://karlof99.github.io/qr-code-component
 
 ## My process
 
