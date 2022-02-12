@@ -46,7 +46,7 @@ https://github.com/Karlof99/qr-code-component/blob/master/QR-code-screenshot.png
 
 ### Body Copy
 
-- Font size (paragraph): 20px and 15px
+- Font size (paragraphs): 20px and 15px
 
 ### Font
 
@@ -55,18 +55,16 @@ https://github.com/Karlof99/qr-code-component/blob/master/QR-code-screenshot.png
 
 ### What I learned
 
-I learned that the best way to improve skills is practicing and not only viewing guided tutorials all the time. When I was building this challenge forced me to remember what I've learned.
-
+I learned that the best way to improve skills is practicing and not only viewing guided tutorials all the time. When I was building this challenge, it forced me to remember what I've learned.
 
 ### Continued development
 
-I want to improve my hability in HTML,CSS,Flexbox,Grid,Bootstrad and Figma in the next projects
-
+I want to improve my hability and knowledge in HTML, CSS, JS, Flexbox, Grid, Bootstrap, Webflow, Sketch and Figma in the next projects.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - Carlos Ortiz (page under construction)
+- Frontend Mentor - @Karlof99
 
 
 
